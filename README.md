@@ -55,5 +55,5 @@ The notebook prints key performance metrics like:
 * **R² Score**
 * **Mean Squared Error (MSE)**
 
-These metrics help you understand how well the model fits the data.
+These metrics help you understand how well the model fits the data
 
